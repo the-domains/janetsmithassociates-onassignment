@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[JanetSmith&Associates-Onassignment]]></title>
         <description><![CDATA[JanetSmith&Associates-Onassignment]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/janetsmithassociates-onassignment/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 14:08:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jul 2016 23:05:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/janetsmithassociates-onassignment/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/97970827ecc8cdaf6c97bf0bd67ec8d7/croprotate.jpg?cropheight=3996&cropwidth=2696&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8423e176-46a0-44a5-b86e-22f1c5473f9a.jpg&x=0&y=0">]]></description>
-            <link>undefinedfor-nearly-30-years-as-the-founder-and-president-of-janet-s/index.html</link>
+            <link>https://thegrid.ai/janetsmithassociates-onassignment/for-nearly-30-years-as-the-founder-and-president-of-janet-s/index.html</link>
             <guid isPermaLink="false">accbf342-4b2a-4d9a-b0ec-2b85cdba93f8</guid>
             <pubDate>Fri, 08 Jul 2016 14:07:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[14 of the most influential women in EMS]]></title>
+            <description><![CDATA[<article><h1>14 of the most influential women in EMS</h1><p>By EMS1 Staff Women's History Month, celebrated each March in the United States, highlights the contributions of women to events in history and society. Seven inventions by women make our lives in the fire and EMS industry easier, safer and more efficient. Women have also led the way on seven important EMS-specific innovations.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e6cbf614ddc317c7a8d5c3f1d9f1b990/noop.jpg?input=http%3A%2F%2Fems-praetorian.netdna-ssl.com%2Fbrs.jpg"></article>]]></description>
+            <link>http://www.ems1.com/ems-advocacy/articles/73446048-14-of-the-most-influential-women-in-EMS/</link>
+            <guid isPermaLink="false">28d770b4-b8fd-4f9f-a5b9-adf790a67447</guid>
+            <pubDate>Fri, 08 Jul 2016 23:05:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
