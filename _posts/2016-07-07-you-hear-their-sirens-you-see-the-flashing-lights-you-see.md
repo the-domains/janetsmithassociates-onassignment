@@ -3,14 +3,14 @@ description: >-
   You hear their sirens. You see the flashing lights. You see them working as
   you pass by on the freeway. You may have had to call them for help. Their
   story is one of service and sacrifice. We tell their story.
-dateModified: '2016-07-08T23:08:37.461Z'
-datePublished: '2016-07-08T23:08:37.559Z'
+dateModified: '2016-07-12T19:24:23.254Z'
+datePublished: '2016-07-12T19:24:23.884Z'
 title: ''
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4db8e548-e7a6-45f2-a97e-1050d84bdb37.jpg
 sourcePath: _posts/2016-07-07-you-hear-their-sirens-you-see-the-flashing-lights-you-see.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
