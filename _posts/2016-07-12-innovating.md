@@ -1,13 +1,13 @@
 ---
 description: 'Community Paramedic Programs, Employee Wellness, Recruitment – Retention'
-dateModified: '2016-07-12T19:15:06.353Z'
-datePublished: '2016-07-12T19:17:17.050Z'
+dateModified: '2016-07-12T19:24:27.525Z'
+datePublished: '2016-07-12T19:24:27.984Z'
 title: Innovating
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fa68fc7-727f-4a58-9f3c-113fcdced74b.jpg
-starred: false
 sourcePath: _posts/2016-07-12-innovating.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
