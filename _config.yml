@@ -1,14 +1,14 @@
-layout_spectrum: 0.08605020889081061
-typography_spectrum: 0.25730188889428973
+layout_spectrum: 0.4542075751814991
+typography_spectrum: 0.6357507721986622
 color:
-  brandStrength: 0.555459302617237
-  lightness: 0.795103384880349
-  saturation: 0.6204915689304471
-  rhythmicContrast: 0.5344235009979457
+  brandStrength: 0.15381975867785513
+  lightness: 0.2157507692463696
+  saturation: 0.9069822868332267
+  rhythmicContrast: 0.6772929427679628
   brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: JanetSmith&Associates-Onassignment
