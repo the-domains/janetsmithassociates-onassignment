@@ -21,3 +21,7 @@ navigation:
     url: 2016-07-12-authoring.html
     name: Authoring
     type: content
+  - id: a062b672-324b-4bb7-b789-01209bfc4608
+    url: 2016-07-12-declaring.html
+    name: Declaring
+    type: content
