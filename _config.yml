@@ -17,3 +17,7 @@ navigation:
     url: 2016-07-20-contact-us.html
     name: Contact Us
     type: content
+  - id: 580bbe9e-a1f0-4b9d-b31d-02ab396c79a1
+    url: 2016-07-12-authoring.html
+    name: Authoring
+    type: content
