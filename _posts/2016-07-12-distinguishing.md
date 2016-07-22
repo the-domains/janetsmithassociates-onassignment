@@ -10,17 +10,16 @@ description: >-
   strategic EMS and healthcare consulting services will identify a corporate
   strategy to help you to achieve a higher ambulance market share, new EMS grant
   funding or memorable physician group market positioning.
-dateModified: '2016-07-12T19:09:03.126Z'
-datePublished: '2016-07-12T19:17:24.631Z'
+dateModified: '2016-07-22T17:53:40.532Z'
+datePublished: '2016-07-22T17:53:41.119Z'
 title: Distinguishing
 author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/86f99aa9-58fe-4803-8be0-de25f8eb6adb.jpg
-starred: false
 sourcePath: _posts/2016-07-12-distinguishing.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+publisher: {}
+via: {}
+starred: false
+url: distinguishing/index.html
 _type: MediaObject
 
 ---
