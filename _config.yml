@@ -1,5 +1,5 @@
-layout_spectrum: 0.11280014831572771
-typography_spectrum: 0.3592570370528847
+layout_spectrum: 0.4542075751814991
+typography_spectrum: 0.6357507721986622
 color:
   brandStrength: 0.15381975867785513
   lightness: 0.2157507692463696
@@ -12,3 +12,8 @@ color:
     - '#FFFFFF'
     - '#FF9800'
 name: JanetSmith&Associates-Onassignment
+navigation:
+  - id: ae13e711-41a0-4829-9149-2ce3ec2a7387
+    url: 2016-07-20-contact-us.html
+    name: Contact Us
+    type: content
