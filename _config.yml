@@ -25,3 +25,7 @@ navigation:
     url: 2016-07-12-declaring.html
     name: Declaring
     type: content
+  - id: 18ed58ed-670d-4896-aebd-cf3c04a14ac0
+    url: 2016-07-12-delivering.html
+    name: Delivering
+    type: content
