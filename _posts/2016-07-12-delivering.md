@@ -10,17 +10,16 @@ description: >-
   ambulance new business development and EMS funding objectives. You’ll find
   that we’re shrewd, persistent and have stick-to-it-ness qualities that produce
   positive results on time.
-dateModified: '2016-07-12T19:10:27.073Z'
-datePublished: '2016-07-12T19:17:23.036Z'
+dateModified: '2016-07-22T17:53:11.012Z'
+datePublished: '2016-07-22T17:53:11.799Z'
 title: Delivering
 author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5f9b6d8-6411-40ff-ad0f-f5fb6379b92b.jpg
-starred: false
 sourcePath: _posts/2016-07-12-delivering.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+publisher: {}
+via: {}
+starred: false
+url: delivering/index.html
 _type: MediaObject
 
 ---
