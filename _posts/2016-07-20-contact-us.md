@@ -1,17 +1,16 @@
 ---
 description: 'Janet Smith: 619-501-5153 office '
-dateModified: '2016-07-20T19:20:56.244Z'
-datePublished: '2016-07-20T19:21:01.320Z'
+dateModified: '2016-07-22T17:52:39.553Z'
+datePublished: '2016-07-22T17:52:40.194Z'
 title: Contact Us
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-20-contact-us.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: contact-us/index.html
+_type: Blurb
 
 ---
 # Contact Us
