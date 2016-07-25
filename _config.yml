@@ -1,5 +1,5 @@
 layout_spectrum: 0.4542075751814991
-typography_spectrum: 0.6357507721986622
+typography_spectrum: 0.2621608334593475
 color:
   brandStrength: 0.15381975867785513
   lightness: 0.2157507692463696
@@ -14,30 +14,23 @@ color:
 name: JanetSmith&amp;Associates-On Assignment
 navigation:
   - id: ae13e711-41a0-4829-9149-2ce3ec2a7387
-    url: 2016-07-20-contact-us.html
     name: Contact Us
     type: content
   - id: 580bbe9e-a1f0-4b9d-b31d-02ab396c79a1
-    url: 2016-07-12-authoring.html
     name: Authoring
     type: content
   - id: a062b672-324b-4bb7-b789-01209bfc4608
-    url: 2016-07-12-declaring.html
     name: Declaring
     type: content
   - id: 18ed58ed-670d-4896-aebd-cf3c04a14ac0
-    url: 2016-07-12-delivering.html
     name: Delivering
     type: content
   - id: 3177ca8f-37af-491d-a98a-018fef93e636
-    url: 2016-07-12-innovating.html
     name: Innovating
     type: content
   - id: 08130d07-3c03-40f4-bf99-7c8d3a1faf76
-    url: 2016-07-12-distinguishing.html
     name: Distinguishing
     type: content
   - id: b1047a5c-f775-4f44-9910-c7e73652bf01
-    url: 2016-07-12-consulting.html
     name: Consulting
     type: content
